@@ -4,7 +4,7 @@ import pandas as pd
 import easyocr
 import torch
 
-def extract_text_from_cells(cells_data):
+def extract_text_from_cells(cells_data): 
     """
     셀 데이터에서 텍스트를 추출합니다.
     
