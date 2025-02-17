@@ -3,7 +3,7 @@ from PIL import Image
 import torch
 from transformers import Pix2StructForConditionalGeneration, AutoProcessor
 
-DEVICE = "cuda" if torch.cuda.is_available() else "cpu"
+DEVICE = "cuda" if torch.cuda.is_available() else "cpu" 
 
 class FigureExtractor:
     def __init__(self):
