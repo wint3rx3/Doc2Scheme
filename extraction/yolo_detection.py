@@ -4,7 +4,7 @@ from doclayout_yolo import YOLOv10
 import torch
 
 DEVICE = "cuda" if torch.cuda.is_available() else "cpu"
-
+ 
 def load_yolo_model():
     """
     DocLayout-YOLO 모델을 Hugging Face Hub에서 다운로드하여 로드합니다.
