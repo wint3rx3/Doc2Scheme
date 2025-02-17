@@ -1,0 +1,11 @@
+huggingface_hub
+ultralytics
+doclayout-yolo
+pdf2image
+easyocr
+torch
+torchvision
+opencv-python
+pandas
+transformers
+Pillow
