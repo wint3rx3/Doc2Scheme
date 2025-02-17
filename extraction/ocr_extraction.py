@@ -1,6 +1,6 @@
 import torch
 import easyocr
-
+ 
 class TextExtractor:
     def __init__(self):
         # EasyOCR 리더 초기화 (한국어, 영어 지원)
