@@ -11,7 +11,7 @@ from extraction.figure_extraction import process_figure_regions
 
 def main():
     # PDF 파일 경로 (실제 파일 경로로 수정)
-    pdf_path = "샘플_간단.pdf"
+    pdf_path = "비타민 CV 프로젝트.pdf"
     
     # 1. YOLO 모델 로드 및 PDF 처리 (이미지 변환 및 영역 검출)
     model = load_yolo_model()  # DocLayout-YOLO 모델 로드
