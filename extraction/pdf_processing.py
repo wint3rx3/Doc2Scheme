@@ -3,7 +3,7 @@ from pdf2image import convert_from_path
 import numpy as np
 from extraction.yolo_detection import process_image
 
-def pdf_to_images(pdf_path, dpi=300):
+def pdf_to_images(pdf_path, dpi=300): 
     """
     PDF 파일을 페이지별 이미지(PIL Image)로 변환합니다.
     
