@@ -1,4 +1,4 @@
-# Jokbo_maker
+# Doc2Scheme
 ### ⚙️ 모델 파이프 라인
 ![image](https://github.com/user-attachments/assets/eefb3479-a183-4d6d-8c98-6f7d723750c6)
 
