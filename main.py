@@ -1,7 +1,7 @@
 import os
 import json
 import pandas as pd
-
+  
 # 모듈 import
 from extraction.pdf_processing import process_pdf, crop_detections
 from extraction.yolo_detection import load_yolo_model
